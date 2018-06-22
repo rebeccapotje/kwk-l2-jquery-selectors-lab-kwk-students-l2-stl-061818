@@ -11,3 +11,6 @@ function liInOlSelector (element) {
   return document.querySelectorAll('ol li')
 }
 
+function linkSelector (element) {
+  $('')
+}
