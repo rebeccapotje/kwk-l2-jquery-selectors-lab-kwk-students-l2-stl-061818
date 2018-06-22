@@ -12,5 +12,5 @@ function liInOlSelector (element) {
 }
 
 function linkSelector (element) {
-  $('')
+  $('#<a> .<a>')
 }
