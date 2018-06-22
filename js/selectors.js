@@ -6,4 +6,4 @@ function h1Selector (element) {
   return document.querySelectorAll('h1') 
 }
 
-function liInOlSelector 
+function liInOlSelector () {
